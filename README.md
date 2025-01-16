@@ -1,4 +1,4 @@
-### Hi there, I'm Jaime Gabriel 👋 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=JaimeGAlves&&left_color=purple&right_color=green) ![GitHub followers](https://img.shields.io/github/followers/JaimeGAlves?style=social)
+### Hi there, I'm Jaime Gabriel 👋 ![GitHub followers](https://img.shields.io/github/followers/JaimeGAlves?style=social)
 
 #### 📊 Github Stats
  <div>
